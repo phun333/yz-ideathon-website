@@ -117,15 +117,6 @@ GEMINI_API_KEY=your_api_key_here
    - Spor salonları için özel paketler
    - Kurumsal wellness programları
 
-## 🔜 Yol Haritası
-
-- [ ] Gelişmiş AI modeli entegrasyonu
-- [ ] Mobil uygulama geliştirme
-- [ ] Ödeme sistemi entegrasyonu
-- [ ] Diyetisyen paneli
-- [ ] Video görüşme altyapısı
-- [ ] Besin veritabanı genişletme
-
 ## 👥 Hedef Kitle
 
 1. **Bireysel Kullanıcılar**
@@ -142,21 +133,3 @@ GEMINI_API_KEY=your_api_key_here
    - Spor salonları
    - Şirketler
    - Sağlık kuruluşları
-
-## 🤝 Katkıda Bulunma
-
-1. Fork edin
-2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'feat: Add amazing feature'`)
-4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
-5. Pull Request oluşturun
-
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
-## 📞 İletişim
-
-Proje Sahibi - [@yourusername](https://twitter.com/yourusername)
-
-Proje Linki: [https://github.com/yourusername/healthylife](https://github.com/yourusername/healthylife)
