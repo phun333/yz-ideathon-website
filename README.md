@@ -1,3 +1,13 @@
+# 🚧 Demo Projesi - Geliştirme Aşamasında
+
+> **⚠️ Önemli Not**: Bu proje bir demo/prototip olarak geliştirilmektedir. Şu anda bazı özellikler eksik veya geliştirme aşamasındadır:
+> - Backend entegrasyonu henüz tamamlanmamıştır
+> - Kullanıcı kimlik doğrulama sistemi demo amaçlıdır
+> - Veritabanı bağlantısı simüle edilmektedir
+> - API entegrasyonları test aşamasındadır
+> 
+> Projenin güncel durumu ve geliştirmeler için lütfen [Issues](https://github.com/yourusername/healthylife/issues) sayfasını takip edin.
+
 # 🥗 HealthyLife - Kişisel Beslenme Asistanı
 
 HealthyLife, yapay zeka destekli kişisel beslenme asistanı ve diyetisyen platformudur. Sağlıklı yaşam yolculuğunuzda size rehberlik eder, beslenme alışkanlıklarınızı takip eder ve profesyonel diyetisyenlerle bağlantı kurmanızı sağlar.
